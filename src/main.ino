@@ -1,13 +1,13 @@
 /* Concept for a safety circuit for an Arduino.
  * If there is water between the two wires, the Arduino shuts itself down so it doesn't get damaged easily.
  * 
+ * See https://github.com/keesblok/Safety-Circuit-Arduino for more information.
+ *
  * Created by: Kees Blok
  * 
  * Circuit
  *   Place the sensorwire and the other wire next to each other at the bottom of the enclosure of the Arduino.
  *   (The place where the water probably stays first.)
- *   
- *   See https://github.com/keesblok/Safety-Circuit-Arduino for more information.
 */
 
 // Declarations for the safety circuit
