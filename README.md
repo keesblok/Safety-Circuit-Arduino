@@ -11,4 +11,4 @@
  
  
  ## Circuit ##
- ![Safety circuit Arduino.png](https://github.com/keesblok/Safety-Circuit-Arduino/blob/master/Arduino%20Safety%20circuit.png "Safety circuit Arduino")
+ ![Safety circuit Arduino.png](https://github.com/keesblok/Safety-Circuit-Arduino/blob/master/Arduino-Safety-Circuit.svg "Safety circuit Arduino")
